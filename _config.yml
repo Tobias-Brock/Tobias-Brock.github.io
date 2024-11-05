@@ -7,7 +7,7 @@ url: "https://Tobias-Brock.github.io" # the base hostname & protocol for your si
 github_username:  Tobias-Brock
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: merlot
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
