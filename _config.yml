@@ -6,10 +6,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Tobias-Brock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Tobias-Brock
 
-# Build settings
-minima:
-  skin: dark
-
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  skin: dark
