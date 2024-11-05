@@ -1,4 +1,4 @@
-title: "Tobias Brock: Projects"
+title: "Tobias Brock"
 email: t.brock335@googlemail.com
 description: Hello, my name is Tobias, welcome to my GitHub page.
   This is a palceholder discription.
@@ -7,7 +7,7 @@ url: "https://Tobias-Brock.github.io" # the base hostname & protocol for your si
 github_username:  Tobias-Brock
 
 # Build settings
-slate:
+minima:
   skin: dark
 
 plugins:
