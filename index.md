@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Tobias Brock: Projects"
+title: "Tobias Brock"
 ---
-
-# Hello, my name is Tobias, welcome to my GitHub page.
 
 ## I am currently studying Statistics and Data Science at Ludwig Maximilians University Munich. My interests are Data Science, Deep Learning, and Statistical Learning.
 
