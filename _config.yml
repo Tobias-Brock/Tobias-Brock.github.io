@@ -1,13 +1,10 @@
 title: "Tobias Brock"
-LinkedIn: "https://www.linkedin.com/in/tobias-brock-983639222/"
+email: "t.brock@lmu.campus.de"
 description: Hello, my name is Tobias, welcome to my GitHub page.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Tobias-Brock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Tobias-Brock
+baseurl: ""
+url: "https://Tobias-Brock.github.io"
+github_username: Tobias-Brock
 
 theme: minima
-plugins:
-  - jekyll-feed
-
 minima:
   skin: dark
