@@ -23,7 +23,7 @@ email: t.brock335@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a palceholder discription.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Tobias-Brock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
